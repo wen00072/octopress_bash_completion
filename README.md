@@ -1,7 +1,11 @@
 # octopress_bash_complete
+---
 # Install
 * copy rake to /etc/bash_completion.d/
 * relogin or `. /etc/bash_completion.d/rake`
+
+# Tested environment
+* Ubuntu 14.04
 
 # Reference
 * [An introduction to bash completion: part 1](http://www.debian-administration.org/article/316/An_introduction_to_bash_completion_part_1)
